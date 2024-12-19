@@ -86,6 +86,7 @@ My name is Lan Peng and I'm a software developer/DevOps engineer. I'm from China
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
 
+<!-- 
 ## 📝 Open Source Projects
 
 <a href="https://github.com/lan234234/DocuQueryAI-Full-Stack-Application">
@@ -95,10 +96,6 @@ My name is Lan Peng and I'm a software developer/DevOps engineer. I'm from China
 <a href="https://github.com/lan234234/HomelyHarbor-Full-Stack-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lan234234&repo=HomelyHarbor-Full-Stack-Application" />
 </a>  
+ -->
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lan234234/lan234234/output/snake.svg" alt="Snake animation" />
-
-###
 
