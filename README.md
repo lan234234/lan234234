@@ -80,12 +80,8 @@ My name is Lan Peng and I'm a software developer/DevOps engineer. I'm from China
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
 
-###
+## 📝 Open Source Projects
 
-<h3 align="left">Open Source Projects</h3>
-
-
-###
 
 <br clear="both">
 
