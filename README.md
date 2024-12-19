@@ -82,6 +82,13 @@ My name is Lan Peng and I'm a software developer/DevOps engineer. I'm from China
 
 ## 📝 Open Source Projects
 
+<a href="https://github.com/lan234234/DocuQueryAI-Full-Stack-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lan234234&repo=DocuQueryAI-Full-Stack-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/lan234234/HomelyHarbor-Full-Stack-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lan234234&repo=HomelyHarbor-Full-Stack-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 <br clear="both">
 
