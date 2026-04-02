@@ -2,100 +2,47 @@
 
 My name is Lan Peng and I'm a software developer. I'm from China, living in United States.
 
+## 🎯 Area of Interest
 
+* 🌐 **Web Services** – Focusing on high-concurrency architecture and cloud scalability.
+* 📈 **Ad Tech** – Interested in real-time bidding engines and data-driven optimization.
+* 🤖 **Robotics** – Exploring autonomous navigation and sensor fusion.
+* 🔢 **Mathematics** – Applying algorithmic theory to solve complex software bottlenecks.
 
-## &#x1f4c8; GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lan234234&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lan234234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Programming Language
+![Java](https://img.shields.io/badge/Java-grey?logo=Java)
+![C++](https://img.shields.io/badge/C%2B%2B-red?logo=C%2B%2B)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=Javascript)
+![Python](https://img.shields.io/badge/-Python-87CEEB?logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-pink?logo=Kotlin)
+![Scala](https://img.shields.io/badge/Scala-orange?logo=Scala)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/lan234234/lan234234/output/snake.svg" alt="Snake animation" />
+## Framework/Tool
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Spring](https://img.shields.io/badge/Spring-green?logo=Spring)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=Spring%20Boot)
+![Hibernate](https://img.shields.io/badge/Hibernate-blue?logo=Hibernate)
+![MySQL](https://img.shields.io/badge/MySQL-white?logo=MySQL)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-grey?logo=ElasticSearch)
+![AWS](https://img.shields.io/badge/AWS-yellow?logo=AWS)
+![GCP](https://img.shields.io/badge/Google%20Cloud-red?logo=Google%20Cloud)
+![Node.js](https://img.shields.io/badge/Node.js-white?logo=Node.js)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=Docker)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apache-kafka&logoColor=white)
 
-###
+---
 
+## Highlight Project
 
-## 🔧 Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-</div>
-
-<!-- 
-## 📝 Open Source Projects
-
-<a href="https://github.com/lan234234/DocuQueryAI-Full-Stack-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lan234234&repo=DocuQueryAI-Full-Stack-Application" />
-</a>
-
-<a href="https://github.com/lan234234/HomelyHarbor-Full-Stack-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lan234234&repo=HomelyHarbor-Full-Stack-Application" />
-</a>  
- -->
+1. [Real-Time Document Q&A AI Agent](https://github.com/lan234234/DocuQueryAI-Full-Stack-Application)
+2. [Personalized Live Stream Recommendation Platform](https://github.com/lan234234/StreamSense-Full-Stack-Application)
+3. [Online Stay Rental platform](https://github.com/lan234234/HomelyHarbor-Full-Stack-Application)
+4. [SoundVibe Android Application](https://github.com/lan234234/SoundVibe-Android-Application)
+5. [A NFT Value Visualizer](https://github.com/lan234234/NFTInsight)
+6. [Community Management System](https://github.com/lan234234/CommunityNest-Full-Stack-Application)
 
 
