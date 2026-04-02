@@ -9,9 +9,9 @@ My name is Lan Peng and I'm a software developer. I'm from China, living in Unit
 * 🤖 **Robotics** – Exploring autonomous navigation and sensor fusion.
 * 🔢 **Mathematics** – Applying algorithmic theory to solve complex software bottlenecks.
 
----
 
-## Programming Language
+
+## 🧠 Programming Language
 ![Java](https://img.shields.io/badge/Java-grey?logo=Java)
 ![C++](https://img.shields.io/badge/C%2B%2B-red?logo=C%2B%2B)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?logo=Javascript)
@@ -19,9 +19,9 @@ My name is Lan Peng and I'm a software developer. I'm from China, living in Unit
 ![Kotlin](https://img.shields.io/badge/Kotlin-pink?logo=Kotlin)
 ![Scala](https://img.shields.io/badge/Scala-orange?logo=Scala)
 
----
 
-## Framework/Tool
+
+## 🛠️ Framework/Tool
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Spring](https://img.shields.io/badge/Spring-green?logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=Spring%20Boot)
@@ -34,9 +34,9 @@ My name is Lan Peng and I'm a software developer. I'm from China, living in Unit
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=Docker)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apache-kafka&logoColor=white)
 
----
 
-## Highlight Project
+
+## 🔥 Highlight Project
 
 1. [Real-Time Document Q&A AI Agent](https://github.com/lan234234/DocuQueryAI-Full-Stack-Application)
 2. [Personalized Live Stream Recommendation Platform](https://github.com/lan234234/StreamSense-Full-Stack-Application)
