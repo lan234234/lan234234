@@ -1,6 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm Lan Peng! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Lan Peng and I'm a software developer. I'm from China, living in United States.
+MS Computer Science @ University of Pennsylvania · Software Engineer
 
 ## 🎯 Area of Interest
 
