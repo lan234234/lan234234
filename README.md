@@ -1,4 +1,4 @@
-# Hello, I'm Lara Peng! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm Lara! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 MS Computer Science @ University of Pennsylvania · Software Engineer
 
